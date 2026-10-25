@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="caspian — AI, music and creative tools">
+  <rect x=".5" y=".5" width="1199" height="299" rx="8" fill="#fcfaef" stroke="#e8e2cb"/>
+  <circle cx="1044" cy="117" r="138" fill="#f7edb8"/>
+  <circle cx="1044" cy="117" r="101" fill="none" stroke="#e4d68f" stroke-width="1"/>
+  <circle cx="1044" cy="117" r="64" fill="none" stroke="#e4d68f" stroke-width="1"/>
+  <path d="M905 117h278M1044 0v255" stroke="#e4d68f" stroke-width="1" opacity=".55"/>
+  <rect x="52" y="39" width="7" height="7" rx="3.5" fill="#a28b35"/>
+  <text x="72" y="47" font-family="Consolas,monospace" font-size="13" letter-spacing="2.5" fill="#807754">AI / MUSIC / CREATIVE TOOLS</text>
+  <text x="47" y="176" font-family="Georgia,'Times New Roman',serif" font-size="108" font-weight="bold" letter-spacing="-5" fill="#30382f">caspian.</text>
+  <text x="54" y="239" font-family="'Microsoft YaHei','PingFang SC',sans-serif" font-size="22" letter-spacing="2" fill="#5c6556">把想法做成能运行的作品。</text>
+  <text x="1129" y="267" text-anchor="end" font-family="Consolas,monospace" font-size="14" letter-spacing="1" fill="#807754">/ dubtape</text>
+</svg>
